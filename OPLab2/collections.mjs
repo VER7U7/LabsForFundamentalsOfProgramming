@@ -8,7 +8,9 @@ const phone_number = {
         return this;
     },
     create(name, phone) {
-        return { ...this, name, phone };
+        const new_phone = Object.create(this);
+        new_phone.set(name, phone);
+        return new_phone;
     }
 };
 

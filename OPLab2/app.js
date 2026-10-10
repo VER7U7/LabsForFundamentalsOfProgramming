@@ -1,4 +1,3 @@
-'use strict';
 
 import * as happy_birthday from "./happy_birthday.mjs";
 import * as cycles from "./cycles.mjs";
