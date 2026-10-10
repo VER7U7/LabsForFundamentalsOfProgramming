@@ -13,7 +13,7 @@
 ## 🛣️ Roadmap
 
 - [✅] [Exercise DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ua.md) - [OPLab1](OPLab1/)
-- [⛔] [Exercise Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ua.md)
+- [✅] [Exercise Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ua.md) - [OPLab2](OPLab2/)
 - [⛔] [Exercise Function](https://github.com/HowProgrammingWorks/Function/blob/master/Exercises.ru.md)
 - [⛔] [Exercise Iteration](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md)
 - [⛔] [Exercise Closure](https://github.com/HowProgrammingWorks/Closure/blob/master/Exercises.ru.md)
