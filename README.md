@@ -16,8 +16,8 @@
 - [✅] [Exercise Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ua.md) - [OPLab2](OPLab2/)
 - [✅] [Exercise Function](https://github.com/HowProgrammingWorks/Function/blob/master/Exercises.ru.md) - [OPLab3](OPLab3/)
 - [✅] [Exercise Iteration](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md) - [OPLab4](OPLab4/)
-- [⛔] [Exercise Closure](https://github.com/HowProgrammingWorks/Closure/blob/master/Exercises.ru.md)
-- [⛔] [Exercise Composition](https://github.com/HowProgrammingWorks/Composition/blob/master/Exercises.ru.md)
+- [✅] [Exercise Closure](https://github.com/HowProgrammingWorks/Closure/blob/master/Exercises.ru.md) - [OPLab5](OPLab5/)
+- [✅] [Exercise Composition](https://github.com/HowProgrammingWorks/Composition/blob/master/Exercises.ru.md) - [OPLab5](OPLab6/)
 - [⛔] [Exercise Arrays](https://github.com/HowProgrammingWorks/Arrays/blob/master/Exercises.en.md)
 - [⛔] [Exercise HigherOrderFunction](https://github.com/HowProgrammingWorks/HigherOrderFunction/blob/master/Exercises.en.md)
 
